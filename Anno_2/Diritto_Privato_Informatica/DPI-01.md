@@ -1,4 +1,8 @@
-Da [[Diritto Privato dell'Informatica]], in data 09/02/2026.
+---
+autore: Lorenzo Temussi
+fonte: Appunti a lezione
+---
+Da [[Indice Diritto Privato dell'Informatica]], in data 09/02/2026.
 
 
 La sicurezza informatica italiana è affidata a Russia e Israele (i nostri migliori amici).

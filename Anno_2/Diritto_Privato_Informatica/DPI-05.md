@@ -1,4 +1,8 @@
-Da [[Diritto Privato dell'Informatica]], in data 23/02/2026.
+---
+autore: Lorenzo Temussi
+fonte: Appunti a lezione
+---
+Da [[Indice Diritto Privato dell'Informatica]], in data 23/02/2026.
 
 
 Alla nascita si guadagna l'attitudine in potenza ad agire, ma essa è legalmente riconosciuta solo al raggiungimento della maggiore età.

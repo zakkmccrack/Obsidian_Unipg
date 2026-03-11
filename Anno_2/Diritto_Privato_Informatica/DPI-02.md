@@ -1,4 +1,8 @@
-Da [[Diritto Privato dell'Informatica]], in data 11/02/2026.
+---
+autore: Lorenzo Temussi
+fonte: Appunti a lezione
+---
+Da [[Indice Diritto Privato dell'Informatica]], in data 11/02/2026.
 
 
 Il Codice Civile italiano è stato mutuato dal Regio Decreto con minime modifiche, e copre un numero di definizioni e disposizioni legali che fanno riferimento a persone e patrimonio.

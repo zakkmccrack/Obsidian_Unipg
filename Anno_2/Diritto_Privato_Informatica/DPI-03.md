@@ -1,4 +1,8 @@
-Da [[Diritto Privato dell'Informatica]], in data 16/02/2026.
+---
+autore: Lorenzo Temussi
+fonte: Appunti a lezione
+---
+Da [[Indice Diritto Privato dell'Informatica]], in data 16/02/2026.
 
 
 Abbiamo definito i Sistemi di AI come capaci di ragionamento induttivo, autonomi, e opachi (per via della complessità dei calcoli dietro al loro operato). Vengono addestrato con dati e feedback, che in teoria almeno provengono da testi ed opere di pubblico dominio, e pure in quel caso portano con sé dei vizi/bias.
