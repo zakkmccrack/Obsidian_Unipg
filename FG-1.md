@@ -39,15 +39,15 @@ Es: $2\underline{00} \times \pi = 628$
 
 ### Esercizio
 
-Due auto partono dal casello e percorrono lo stesso tratto di autostrada.
+>Due auto partono dal casello e percorrono lo stesso tratto di autostrada.
 $A_1$ ha un tachimetro con sensibilità 10 $km/h$, $A_2$ ha un tachimetro con sensibilità di 1 $km/h$.
-Inoltre $A_1$ misura il tempo con un orologio con sensibilità 1 $min$, mentre $A_2$ con uno di sensibilità 10 $min$.
+Inoltre $A_1$ misura il tempo con un orologio con sensibilità 1 $min$, mentre $A_2$ con uno di sensibilità 10 $min$. 
 
-$A_1$ procede a 120 $km/h$ per 113 $min$, $A_2$ procede a 124 $km/h$ per 110 $min$, chi ha percorso più strada?
+>$A_1$ procede a 120 $km/h$ per 113 $min$, $A_2$ procede a 124 $km/h$ per 110 $min$, chi ha percorso più strada?
 
 ### Esercizio
 
-La disposizione di sfere più compatta occupa una frazione pari a $\frac \pi {\ \sqrt{18}}$ del volume totale. Data una damigiana di volume 5.0 $l$ e una sacca di bilie di diametro 1.00 $cm$, quanto spazio vuoto rimane fra le bilie?
+>La disposizione di sfere più compatta occupa una frazione pari a $\frac \pi {\ \sqrt{18}}$ del volume totale. Data una damigiana di volume 5.0 $l$ e una sacca di bilie di diametro 1.00 $cm$, quanto spazio vuoto rimane fra le bilie?
 
 #### Ricorda:
 
@@ -64,7 +64,7 @@ La pressione si trova dividendo la forza applicata su di un corpo divisa per la 
 - Confronto il risultato con la mia esperienza (se sto cercando la velocità di una bicicletta e la risposta è Mach 2, forse non è corretta)
 
 #### Esercizio:
-Il mio fabbisogno calorico è di $26\underline{00}$ kcal, di cui $16\underline{00}$ kcal solo di metabolismo basale. Al contrario, la mia bolletta dell'energia elettrica indica che ho consumato 88 kW/h negli ultimi 60 giorni.
+>Il mio fabbisogno calorico è di $26\underline{00}$ kcal, di cui $16\underline{00}$ kcal solo di metabolismo basale. Al contrario, la mia bolletta dell'energia elettrica indica che ho consumato 88 kW/h negli ultimi 60 giorni.
 
 Consumo più energia elettrica o energia chimica?
 
