@@ -2,6 +2,6 @@ Un esame [[UNIPG]] che esplora il funzionamento dei Sistemi Operativi, con parti
 
 Pagina [UNISTUDIUM](https://unistudium.unipg.it/unistudium/course/view.php?id=50349)
 
-[[SO -L1]] - Unix, Linux, bash e root users
-[[SO -L2]]
+[[SO-01]] - Unix, Linux, bash e root users
+[[SO-01]]
 

@@ -22,9 +22,9 @@
 
 ## Anno 2 Semestre 2
 
-[[Diritto Privato dell'Informatica]]
+[[Indice Diritto Privato dell'Informatica]]
 [[Ingegneria del Software]]
 [[Linguaggi Formali e Compilatori]]
-[[Fisica Generale]]
-[[Algoritmi e Strutture Dati 2]]
+[[Indice Fisica Generale]]
+[[Indice Algoritmi e Strutture Dati 2]]
 [[Sistemi Operativi]]

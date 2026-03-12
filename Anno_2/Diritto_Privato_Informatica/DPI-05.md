@@ -1,8 +1,15 @@
 ---
+<<<<<<< HEAD:DPI-5.md
 subject: Diritto Privato dell'Informatica
 date: 2026-02-23
 tags: [minori, diritto, identità_digitale]
 ---
+=======
+autore: Lorenzo Temussi
+fonte: Appunti a lezione
+---
+Da [[Indice Diritto Privato dell'Informatica]], in data 23/02/2026.
+>>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-05.md
 
 # ⚖️ Da [[Diritto Privato dell'Informatica]], in data 23/02/2026.
 
