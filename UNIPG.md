@@ -27,4 +27,4 @@
 [[Linguaggi Formali e Compilatori]]
 [[Indice Fisica Generale]]
 [[Indice Algoritmi e Strutture Dati 2]]
-[[Sistemi Operativi]]
+[[Sistemi Operativi con Laboratorio]]

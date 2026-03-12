@@ -1,4 +1,8 @@
-#linguaggi
+---
+autore: Davide Maracaglia
+date: 2026-02-26
+---
+
 ◀️ *Back to:* [[Linguaggi Formali e Compilatori]]
 
 ---

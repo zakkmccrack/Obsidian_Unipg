@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anno_2/Diritto_Privato_Informatica/DPI-05.md",
+                "file": "IDS-4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DPI-05"
+              "title": "IDS-4"
             }
           }
         ]
@@ -185,12 +185,25 @@
   },
   "active": "caadcaa2c3156ecb",
   "lastOpenFiles": [
-    "Anno_2/Diritto_Privato_Informatica/DPI-06.md",
+    "IDS-3.md",
+    "IDS-4.md",
+    "Anno_2/Ingegneria_del_Software/Ingegneria del Software.md",
+    "IDS-1.md",
+    "IDS-2.md",
+    "Anno_2/Linguaggi_Formali_e_Compilatori/LFC-02.md",
+    "Anno_2/Sistemi_Operativi/SO-02.md",
+    "Anno_2/Sistemi_Operativi/SO-01.md",
+    "Anno_2/Linguaggi_Formali_e_Compilatori/LFC-01.md",
+    "Anno_2/Diritto_Privato_Informatica/DPI-08.md",
     "Anno_2/Diritto_Privato_Informatica/DPI-07.md",
-    "Anno_2/Diritto_Privato_Informatica/DPI-05.md",
+    "Anno_2/Sistemi_Operativi/Sistemi Operativi con Laboratorio.md",
+    "Anno_2/Linguaggi_Formali_e_Compilatori/Linguaggi Formali e Compilatori.md",
     "Anno_2/Diritto_Privato_Informatica/DPI-03.md",
     "Anno_2/Diritto_Privato_Informatica/DPI-01.md",
+    "00_Index_OS.md",
+    "Anno_2/Diritto_Privato_Informatica/DPI-02.md",
     "Anno_2/Diritto_Privato_Informatica/DPI-04.md",
-    "Anno_2/Diritto_Privato_Informatica/DPI-02.md"
+    "Anno_2/Diritto_Privato_Informatica/DPI-05.md",
+    "Anno_2/Diritto_Privato_Informatica/DPI-06.md"
   ]
 }

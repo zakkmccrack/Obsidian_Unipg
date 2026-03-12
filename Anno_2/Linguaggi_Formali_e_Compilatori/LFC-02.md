@@ -1,3 +1,7 @@
+---
+autore: Lorenzo Temussi
+date: 2026-02-27
+---
 ◀️ _Back to:_ [[Linguaggi Formali e Compilatori]]
 
 ---
