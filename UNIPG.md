@@ -1,30 +1,41 @@
+# Hub Principale - Informatica UNIPG
 
-## Anno 1 Semestre 1
+Benvenuto! Da qui puoi esplorare comodamente tutti i contenuti 
+Clicca sui link qui sotto per saltare direttamente all'indice del corso che ti interessa.
 
-[[Analisi 1]]
-[[Matematica Discreta 1]]
-[[Logica e Reti Logiche]]
-[[Programmazione Procedurale in C]]
-[[Inglese]]
+---
 
-## Anno 1 Semestre 2
+## 📘 Anno 1
 
-[[Analisi 2]]
-[[Matematica Discreta 2]]
-[[Programmazione a Oggetti in Java]]
-[[Architettura degli Elaboratori]]
+### Semestre 1
+* [[Analisi 1]]
+* [[Matematica Discreta 1]]
+* [[Logica e Reti Logiche]]
+* [[Programmazione Procedurale in C]]
+* [[Inglese]]
 
-## Anno 2 Semestre 1
+### Semestre 2
+* [[Analisi 2]]
+* [[Matematica Discreta 2]]
+* [[Programmazione a Oggetti in Java]]
+* [[Architettura degli Elaboratori]]
 
-[[Calcolo Numerico]]
-[[Algoritmi e Strutture Dati 1]]
-[[Calcolo delle Probabilità e Statistica Matematica]]
+---
 
-## Anno 2 Semestre 2
+## 📗 Anno 2
 
-[[Indice Diritto Privato dell'Informatica]]
-[[Ingegneria del Software]]
-[[Linguaggi Formali e Compilatori]]
-[[Indice Fisica Generale]]
-[[Indice Algoritmi e Strutture Dati 2]]
-[[Sistemi Operativi con Laboratorio]]
+### Semestre 1
+* [[Calcolo Numerico]]
+* [[Algoritmi e Strutture Dati 1]]
+* [[Calcolo delle Probabilità e Statistica Matematica]]
+
+### Semestre 2
+* [[Diritto Privato dell'Informatica]]
+* [[Ingegneria del Software]]
+* [[Linguaggi Formali e Compilatori]]
+* [[Fisica Generale]]
+* [[Algoritmi e Strutture Dati 2]]
+* [[Sistemi Operativi con Laboratorio]]
+
+---
+*Se vuoi aggiungere un nuovo corso, ricorda di aggiornare questo elenco!*

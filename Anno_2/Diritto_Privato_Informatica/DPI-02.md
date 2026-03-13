@@ -8,7 +8,7 @@ tags: [codice_civile, AI, UE, filosofia]
 autore: Lorenzo Temussi
 fonte: Appunti a lezione
 ---
-Da [[Indice Diritto Privato dell'Informatica]], in data 11/02/2026.
+Da [[Diritto Privato dell'Informatica]], in data 11/02/2026.
 >>>>>>> 9e08707a05882472693d1b4f33dc21c687edeb44:Anno_2/Diritto_Privato_Informatica/DPI-02.md
 
 # 🏛️ Da Diritto Privato dell'Informatica, in data 11/02/2026.

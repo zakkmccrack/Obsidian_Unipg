@@ -1,4 +1,4 @@
-> Un esame UNIPG che esplora la fisica, cercando di costruire una coscienza critica della materia, che consenta di applicarla in ambito informatico.
+> Un esame [[UNIPG]] che esplora la fisica, cercando di costruire una coscienza critica della materia, che consenta di applicarla in ambito informatico.
 > **Professore:** Pietro Chessa
 > 🔗 [Pagina UNISTUDIUM](inserisci_qui_il_link)
 > 

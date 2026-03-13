@@ -1,45 +1,47 @@
 # 🏛️ Appunti Informatica UNIPG
 
 > *"Trova in pochi clic tutte le informazioni che ti servono per preparare il tuo esame e accrescere la tua conoscenza dell'informatica.*
-> 
-> *Hai degli appunti scritti su Obsidian che vuoi condividere? Crea un branch, aggiungili e apri una Pull Request!*
-> 
-> *Lo sviluppo è ancora al principio, e non esiste uno standard di stile, neanche per il readme.*
-> 
 > *Costruiamo insieme questa cattedrale al genio umano."*
 
 ---
 
-## Istruzioni per l'uso
+## Come entrare nella Cattedrale (Istruzioni per l'uso)
 
 Questa repository è strutturata per essere usata e visualizzata direttamente dentro **[Obsidian](https://obsidian.md/)**. 
 
 Non è solo testo: accetta file `.md` (Markdown per Obsidian), `.pdf` (slide, documenti e dispense) e sorgenti `LaTeX` per le formule matematiche più pesanti. Tutto è unificato in un solo grande albero.
 
-Per avere tutto pronto sul tuo PC in 3 semplici passi:
+Per avere tutto pronto sul tuo PC in 4 semplici passi:
 
 1. **Clona il progetto** sul tuo computer (apri il terminale nella cartella in cui vuoi salvare gli appunti):
    ```bash
-   git clone [https://github.com/VOSTRO-NOME/NOME-REPO.git](https://github.com/VOSTRO-NOME/NOME-REPO.git)
+   git clone [https://github.com/Lorenzo-Temussi/Obsidian_Unipg.git](https://github.com/Lorenzo-Temussi/Obsidian_Unipg)
    ```
 2. **Scarica e apri [Obsidian](https://obsidian.md/)**.
 3. Nella schermata iniziale di Obsidian, clicca su **"Apri cartella come vault"** (*Open folder as vault*) e seleziona la cartella che hai appena clonato.
+4. **Inizia l'esplorazione!** Una volta aperto il vault, clicca sul file dell'Indice Generale (es. `00_Indice_Generale.md`) per avere la mappa completa e navigare facilmente tra i vari anni e semestri.
 
-Ora vedrai tutto l'albero degli appunti perfettamente organizzato e potrai navigarci dentro.
+---
 
-## Aggiungere i tuoi appunti
+## Aggiungere i tuoi Appunti (Regole per contribuire)
 
-Vuoi aggiungere i tuoi appunti, delle slide utili o sistemare la formattazione di una pagina?
+Vuoi aggiungere i tuoi appunti, delle slide utili o sistemare la formattazione di una pagina? Per mantenere la cattedrale in ordine ed evitare fastidiosi conflitti su Git, usiamo un metodo semplicissimo basato su **sottocartelle personali**.
 
-1. Fai un pull per assicurarti di avere l'ultima versione:
+Facciamo un esempio. Mettiamo che tu ti chiami Davide e voglia aggiungere i tuoi appunti di *Sistemi Operativi*:
+
+1. **Sincronizzati e crea un branch:**
    ```bash
    git pull origin main
+   git checkout -b aggiunta-appunti-davide
    ```
-2. Crea un tuo branch per le modifiche:
+2. **Crea la tua cartella:** Vai nella cartella del corso (`Anno_2/Sistemi_Operativi/`) e crea una sottocartella tutta tua, ad esempio `appunti_davide` (o `appunti_d`).
+3. **Metti lì i tuoi file:** Salva tutti i tuoi file `.md`, i tuoi PDF e le tue immagini dentro la tua cartella `appunti_davide`. In questo modo sei libero di organizzarli come preferisci senza fare confusione con i file degli altri.
+4. **Aggiorna l'Indice del corso:** Apri il file indice principale di Sistemi Operativi (es. `Sistemi Operativi con Laboratorio.md`) e aggiungi i link ai tuoi file usando la sintassi di Obsidian `[[Nome del tuo file]]`, scrivendo chiaramente che sono i tuoi appunti.
+5. **Manda tutto online!** Fai commit, pusha il tuo branch e apri una Pull Request verso il `main`:
    ```bash
-   git checkout -b aggiunta-appunti-materia
+   git add .
+   git commit -m "Aggiunti appunti di Davide per Sistemi Operativi"
+   git push origin aggiunta-appunti-davide
    ```
-3. Inserisci i tuoi file `.md`, PDF o LaTeX nelle cartelle corrispondenti al corso.
-4. Fai commit, pusha il tuo branch e apri una Pull Request verso il `main`.
 
-*(P.S. Cerca di dare nomi chiari ai file seguendo lo schema delle cartelle. Ricorda di ignorare la tua cartella `.obsidian` personale e di non pushare i file spazzatura di compilazione generati da LaTeX!!!!!!)*
+*(P.S. Cerca di dare nomi chiari ai file. Ricorda di ignorare la tua cartella `.obsidian` personale e di non pushare i file spazzatura di compilazione generati da LaTeX!!!)*
